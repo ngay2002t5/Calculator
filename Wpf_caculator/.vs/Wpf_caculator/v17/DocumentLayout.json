@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Calculator\\Wpf_caculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F189FA-C650-43B2-9D8A-DFC2C72E6A8C}|Wpf_caculator.csproj|e:\\github\\calculator\\wpf_caculator\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F189FA-C650-43B2-9D8A-DFC2C72E6A8C}|Wpf_caculator.csproj|solutionrelative:history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F189FA-C650-43B2-9D8A-DFC2C72E6A8C}|Wpf_caculator.csproj|e:\\github\\calculator\\wpf_caculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F189FA-C650-43B2-9D8A-DFC2C72E6A8C}|Wpf_caculator.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "History.xaml",
+              "DocumentMoniker": "E:\\Github\\Calculator\\Wpf_caculator\\History.xaml",
+              "RelativeDocumentMoniker": "History.xaml",
+              "ToolTip": "E:\\Github\\Calculator\\Wpf_caculator\\History.xaml",
+              "RelativeToolTip": "History.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-23T15:00:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Github\\Calculator\\Wpf_caculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Github\\Calculator\\Wpf_caculator\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-23T15:00:14.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Wpf_tutorial\\Wpf_caculator\\Wpf_caculator.csproj",
+      "projectUniqueName": "E:\\Github\\Calculator\\Wpf_caculator\\Wpf_caculator.csproj",
       "projectName": "Wpf_caculator",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Wpf_tutorial\\Wpf_caculator\\Wpf_caculator.csproj",
+      "projectPath": "E:\\Github\\Calculator\\Wpf_caculator\\Wpf_caculator.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Wpf_tutorial\\Wpf_caculator\\obj\\",
+      "outputPath": "E:\\Github\\Calculator\\Wpf_caculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

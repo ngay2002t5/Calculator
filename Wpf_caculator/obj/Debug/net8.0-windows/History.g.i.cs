@@ -61,7 +61,7 @@ namespace Wpf_caculator {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Wpf_caculator;component/history.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Wpf_caculator;V1.0.0.0;component/history.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\History.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
